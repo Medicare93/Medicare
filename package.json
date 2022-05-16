@@ -1,0 +1,18 @@
+{
+  "name": "medicare",
+  "version": "1.1.0",
+  "description": "Medicare site d'aide à la prise de médicaments pour les vielles personnes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moi955/MediCare.git"
+  },
+  "author": "Artisimportant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moi955/MediCare/issues"
+  },
+  "homepage": "https://github.com/moi955/MediCare#readme"
+}
